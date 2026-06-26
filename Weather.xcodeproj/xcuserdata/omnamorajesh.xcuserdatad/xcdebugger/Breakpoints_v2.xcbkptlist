@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "5980343A-E289-461B-B6C8-35E2323E164D"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0CADBDD6-D81F-4FBA-B28B-53AD7F1E206C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Weather/CitiesList_weather/WeatherListView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "50"
+            endingLineNumber = "50"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5B8AE629-7C3F-4E95-93DD-76948918BE84"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Weather/CitiesList_weather/WeatherListPresenter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "40"
+            endingLineNumber = "40"
+            landmarkName = "loadSavedWeather()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "5B8AE629-7C3F-4E95-93DD-76948918BE84 - 5e844e39da7b47da"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for Weather.WeatherListPresenter.loadSavedWeather() async -&gt; ()"
+                  moduleName = "Weather.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/omnamorajesh/Documents/2026/apr/Weather/Weather/CitiesList_weather/WeatherListPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40">
+               </Location>
+               <Location
+                  uuid = "5B8AE629-7C3F-4E95-93DD-76948918BE84 - e8e379d1bff27bde"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for Weather.WeatherListPresenter.loadSavedWeather() async -&gt; ()"
+                  moduleName = "Weather.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/omnamorajesh/Documents/2026/apr/Weather/Weather/CitiesList_weather/WeatherListPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40">
+               </Location>
+               <Location
+                  uuid = "5B8AE629-7C3F-4E95-93DD-76948918BE84 - f1f52b7bf697a3b4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for Weather.WeatherListPresenter.loadSavedWeather() async -&gt; ()"
+                  moduleName = "Weather.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/omnamorajesh/Documents/2026/apr/Weather/Weather/CitiesList_weather/WeatherListPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40">
+               </Location>
+               <Location
+                  uuid = "5B8AE629-7C3F-4E95-93DD-76948918BE84 - bea2ba1b194671bd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for Weather.WeatherListPresenter.loadSavedWeather() async -&gt; ()"
+                  moduleName = "Weather.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/omnamorajesh/Documents/2026/apr/Weather/Weather/CitiesList_weather/WeatherListPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6699C8B2-0598-457D-A04A-126FADA612C2"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Weather/CitiesList_weather/WeatherListPresenter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "42"
+            endingLineNumber = "42"
+            landmarkName = "loadSavedWeather()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BA23B0F5-56C1-4EAC-A6F9-5B54CCC4D810"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Weather/CitiesList_weather/WeatherListPresenter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "51"
+            endingLineNumber = "51"
+            landmarkName = "syncWeather()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "BA23B0F5-56C1-4EAC-A6F9-5B54CCC4D810 - b8a541688a29fd46"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for Weather.WeatherListPresenter.syncWeather() async -&gt; ()"
+                  moduleName = "Weather.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/omnamorajesh/Documents/2026/apr/Weather/Weather/CitiesList_weather/WeatherListPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "51"
+                  endingLineNumber = "51">
+               </Location>
+               <Location
+                  uuid = "BA23B0F5-56C1-4EAC-A6F9-5B54CCC4D810 - e98aa29d0fe11b3b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for Weather.WeatherListPresenter.syncWeather() async -&gt; ()"
+                  moduleName = "Weather.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/omnamorajesh/Documents/2026/apr/Weather/Weather/CitiesList_weather/WeatherListPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "51"
+                  endingLineNumber = "51">
+               </Location>
+               <Location
+                  uuid = "BA23B0F5-56C1-4EAC-A6F9-5B54CCC4D810 - 90d5e868319e2544"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for Weather.WeatherListPresenter.syncWeather() async -&gt; ()"
+                  moduleName = "Weather.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/omnamorajesh/Documents/2026/apr/Weather/Weather/CitiesList_weather/WeatherListPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "51"
+                  endingLineNumber = "51">
+               </Location>
+               <Location
+                  uuid = "BA23B0F5-56C1-4EAC-A6F9-5B54CCC4D810 - fceddce81d38c94b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for Weather.WeatherListPresenter.syncWeather() async -&gt; ()"
+                  moduleName = "Weather.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/omnamorajesh/Documents/2026/apr/Weather/Weather/CitiesList_weather/WeatherListPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "51"
+                  endingLineNumber = "51">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "84950731-89D3-48CE-A173-D1A07E79F68C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Weather/CitiesList_weather/WeatherListView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "61"
+            endingLineNumber = "61"
+            landmarkName = "weatherListContent"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
